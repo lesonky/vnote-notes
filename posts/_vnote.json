@@ -1,0 +1,16 @@
+{
+    "created_time": "2018-04-26T14:36:16Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2018-04-26T14:40:12Z",
+            "modified_time": "2018-04-26T14:40:12Z",
+            "name": "如何自己实现一个v-model组件.md"
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
